@@ -1,0 +1,27 @@
+{
+  "name": "transfeasy",
+  "version": "1.0.0",
+  "description": "File Transfer through WebRTC",
+  "main": "index.js",
+  "engines": {
+    "node": "16.x"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RahulGopathi/Transfeasy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RahulGopathi/Transfeasy/issues"
+  },
+  "homepage": "https://github.com/RahulGopathi/Transfeasy#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "socket.io": "^4.4.1"
+  }
+}
