@@ -5,7 +5,7 @@
 }
 
 body{
-    background: #f5f5f5;
+    background: #fff;
     font-family: "Roboto", sans-serif;
 }
 
@@ -26,8 +26,11 @@ body{
     height: 100%;
     max-width: 500px;
     background: #fff;
-    border-right: 1px solid #ddd;
-    border-left: 1px solid #ddd;
+}
+
+.join-button{
+    color: white;
+    text-decoration: none;
 }
 
 .join-screen .form{
